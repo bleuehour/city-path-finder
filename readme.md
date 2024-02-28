@@ -35,13 +35,16 @@ Ensure you have the following installed:
    ```
 
 2. **Setup Django** 
-    ```bash 
+     ```bash
     cd backend
-    python3 -m venv venv
-    source venv/bin/activate
+    python -m venv venv
+     .\env\Scripts\activate.bat
     pip install -r requirements.txt
     python manage.py runserver
     ```
+
+
+
 
 3. **Setup React**
     ```bash 
