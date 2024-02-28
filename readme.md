@@ -17,7 +17,7 @@
 
 - **Backend**: Django
 - **Frontend**: React
-- **Mapping**: leaflet-react, osnmx, networkx
+- **Mapping**: leaflet-react, osmnx, networkx
 
 ### Prerequisites
 
